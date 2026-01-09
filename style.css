@@ -206,3 +206,58 @@ main #notes {
     color: #627382;
 }
 
+#solve {
+    padding: 120px 0px;
+}
+
+.solve-container {
+    width: 85%;
+    max-width: 1360px;
+    margin: 0 auto;
+    display: flex;
+    gap: 60px;
+    align-items: center;
+}
+
+.solve-image img {
+    max-width: 500px;
+
+}
+
+.solve-title{
+    font-size: 16px;
+    line-height: 20px;
+    color: #627382;
+}
+
+.solve-content {
+    padding-right: 100px;
+}
+
+.solve-content h4 {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+    color: #469165;
+    margin-bottom: 16px;
+}
+.solve-content h2 {
+    font-size: 48px;
+    font-weight: bold;
+    color: #001931;
+    margin-bottom: 16px;
+}
+
+.solve-content ul {
+    margin-top: 40px;    
+}
+
+.solve-content ul li {
+    list-style: none;
+    margin-top: 16px;    
+}
+
+.solve-content ul li .fa-solid{
+      color: #469165;
+}
+
