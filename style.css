@@ -261,3 +261,48 @@ main #notes {
       color: #469165;
 }
 
+.cas-container {
+    width: 85%;
+    max-width: 1360px;
+    background-color: #F7F6F2;
+    margin: 0 auto;
+    text-align: center;
+    padding: 80px 40px;
+}
+
+.cas-content h2 {
+    font-size: 40px;
+    color: #001931;
+    font-weight: bold;
+    margin-bottom: 16px;
+}
+
+.cas-content button {
+    margin:24px 0px 16px;
+    box-shadow: 0px 2px 10px rgba(97, 97, 97, 0.058);
+}
+
+.cas-btn {
+    background-color: #469165;
+    padding: 16px;
+    font-size: 16px;
+    font-weight: 600;
+    border: none;
+    border-radius: 4px;
+    color: #FFFFFF;
+    cursor: pointer;
+
+}
+
+.cas-btn:hover {
+    background-color: white;
+    color: #000000;
+}
+
+.cas-title{
+    font-size: 16px;
+    line-height: 20px;
+    color: #627382;
+}
+
+
