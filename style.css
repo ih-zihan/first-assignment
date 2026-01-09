@@ -60,3 +60,94 @@ header #nav-head {
     border: 1px solid #469165;
     background-color: #021d0d;
 }
+
+ .btn2 {
+    padding: 10px 12px;
+    border-radius: 800px;
+    background-color: #FFFFFF;
+    color: #469165;
+    font-size: 16px;
+    font-weight: 500;
+    border: none;
+    margin-bottom: 16px;
+    cursor: pointer;
+}
+
+.btn2:hover {
+    background-color: #000000;
+    color: white;
+}
+
+main #banner {
+    padding-top: 120px;
+    background: url(./images/hero-bg.png);
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#banner .banner-container {
+    width: 100%;
+    max-width: 1600px;
+    margin: 0 auto;
+    text-align: center;
+    
+}
+
+#banner .title h1 {
+    font-size: 72px;
+    color: #FFFFFF;
+    line-height: 84px;
+    font-weight: bold;
+    margin-bottom: 16px;
+}
+
+#banner .title-text {
+    display: inline-block;
+    color: #469165;
+}
+
+#banner .title p {
+    font-size: 18px;
+    color: #FFFFFF;
+    line-height: 24px;
+    font-weight: 400;
+    margin-bottom: 32px;
+    padding: 0 200px;
+}
+
+.btn3 {
+    background-color: #469165;
+    padding: 16px;
+    font-size: 16px;
+    font-weight: 600;
+    border: none;
+    border-radius: 4px;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+
+.btn3:hover {
+    color: #ffffff;
+    background-color: #000000;
+}
+
+.btn4 {
+    background-color: rgba(0,0,0,0.1);
+    padding: 16px;
+    font-size: 16px;
+    font-weight: 600;
+    border: 1px solid white;
+    border-radius: 4px;
+    color: #FFFFFF;
+    cursor: pointer;
+    margin-left: 16px;
+
+}
+
+.btn4:hover {
+    background-color: #469165;
+    color: #FFFFFF;
+    box-shadow: 0px 2px 15px rgba(100, 100, 100, 0.105);
+    border: 1px solid #469165;
+}
