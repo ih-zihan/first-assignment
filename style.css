@@ -151,3 +151,23 @@ main #banner {
     box-shadow: 0px 2px 15px rgba(100, 100, 100, 0.105);
     border: 1px solid #469165;
 }
+
+main #notes {
+    padding-top: 44px;
+}
+
+.note-container {
+    width: 85%;
+    max-width: 1360px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.title h2 {
+    font-size: 52px;
+    font-weight: bold;
+    color: #001931;
+    margin-bottom: 16px;
+    text-align: center;
+}
+
