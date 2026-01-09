@@ -171,3 +171,38 @@ main #notes {
     text-align: center;
 }
 
+.box-container {
+    display: flex;
+    gap: 24px;
+    margin-top: 44px;
+}
+
+.box {
+    max-width: 322px;
+    padding: 69.5px 24px;
+    border-radius: 8px;
+    background-color: white;
+    text-align: center;
+    box-shadow: 0px 2px 10px 0px rgba(0,0,0,0.10);
+}
+
+.icon-box {
+    max-width: 60px;
+    background-color: #F95555;
+    padding: 10px;
+    border-radius: 100%;
+    margin: 0 auto;
+}
+
+.box h3 {
+    margin: 16px 0px;
+    font-size: 23px;
+    font-weight: 600;
+}
+
+.icon-title{
+    font-size: 16px;
+    line-height: 20px;
+    color: #627382;
+}
+
